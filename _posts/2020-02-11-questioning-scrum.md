@@ -1,5 +1,5 @@
 ---
-title: My thoughts on scrum
+title: Questioning scrum
 tags: [scrum, opinion, rant]
 ---
 
@@ -31,8 +31,7 @@ We've internalized the answer to this question, and have falsely led ourselves t
 
 And this is exactly why we as a community of professionals do not deserve to be called 'computer scientists' or 'software engineers'. Because science does not accept facts without proof. Science questions what we think we know and asks more questions and keeps probing until something is disproven or is irrefutably proven.
 
-When it comes to scrum, asking questions _ist verbotten_. We accept it like the word of god (or gods, however many is your cup of tea) when there is ample evidence that it __does not work__.
-'Oh no' you're saying. 'No no no, you're WRONG! I've read the success stories and it has worked!'. Sure. I'm not saying that it does not _always_ work; that would make me come off as dogmatic as the thing I'm being critical of. A hypocrite.
+When it comes to scrum, asking questions _ist verbotten_. We accept it like the word of god (or gods, however many is your cup of tea) when there is ample evidence that it __does not work__. 'Oh no' you're saying. 'No no no, you're WRONG! I've read the success stories and it has worked!'. Sure. I'm not saying that it does not _always_ work; that would make me come off as dogmatic as the thing I'm being critical of. A hypocrite.
 
 Scrum is a religion. A dogma. It does not bear any scrutiny, or you will be branded a heretic. When someone dares utter 'but we tried it and it didn't work', zealots rush in to defend it: 'it's not scrum, it's YOU! If only you followed the One True Path you'd have succeeded!'. Any evidence you may present to the contrary, some scrum high-priest or other will recite that mantra to you. Just like religion, the [burden of proof does not fall on the shoulders of those making improbable claims, but on that of others](https://en.wikipedia.org/wiki/Russell%27s_teapot).
 
