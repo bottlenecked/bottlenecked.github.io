@@ -1,5 +1,4 @@
-# Bottlenecked's blog
-This is my personal blog. Opinions expressed herein are mine and not shared by my employer. Enjoy!
+This is my personal blog. Opinions expressed herein are mine and not necessarily shared by my employer. Enjoy!
 
 <ul>
   {% for post in site.posts %}
