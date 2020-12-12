@@ -1,11 +1,15 @@
 ---
-title: Ruby is the VB of the non-Microsoft world
-tags: [ruby, opinion, rant]
+title: Ruby first impressions
+tags: [ruby, opinion]
 ---
 
 # {{ page.title }}
 
-After almost 10 years of working in online gaming it is time to go and work on a completely different domain (medicine) using my favorite tech of the last 5 years: Elixir. But like most shops doing Elixir, this next one I'm going to be working with has started out with Ruby, and so it made sense to catch up to Ruby as it's almost certain I'll have to work with it sooner rather than later. For this I'm following [The Well-Grounded Rubyist, 3rd edition](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) book[^1] my new colleagues suggested.
+After almost 10 years of working in online gaming it is time to go and work on a completely different domain (medicine) using my favorite tech of the last 5 years: Elixir. But like most shops doing Elixir, this next one I'm going to be working with has started out with Ruby, and so it made sense to catch up to Ruby as it's almost certain I'll have to work with it sooner rather than later. For this I'm reading [The Well-Grounded Rubyist, 3rd edition](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) book[^1] that my new colleagues suggested.
+
+_Disclaimer: I've not yet written even the tiniest amount of Ruby code other than the examples in the book. The following are based solely on my first impressions of the language and my opinions may well change later._
+
+Before I go into details I'd like to share my preconceptions of what one should expect from Ruby based on what I'd heard on the internets mostly. And the things people would say about Ruby were the feeling of productivity enabled by the language and the tooling and frameworks around it, the beauty of the language and it's syntax, and finally that performance is not among Ruby's strengths.
 
 I'm about to share my thoughts, having read all of a half of a single book on Ruby and feeling enough of an 'expert' to write my not-so-flattering opinions on a language that is loved by many and powers some of the [largest software businesses](https://rubygarage.org/blog/the-best-websites-built-with-ruby-on-rails) today. Reckless, no? Or at the very least _really_ cocky. Well, I'm feeling confident today, what can I say ;)[^2]. And I'm also feeling frustrated and confused with what I've learned and came to understand about the language- so much in fact that I decided to stop my reading for now and write this post to vent.
 
