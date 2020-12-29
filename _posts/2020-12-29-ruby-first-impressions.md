@@ -41,6 +41,8 @@ I can appreciate Ruby's attempts at expressiveness and 'simplicity', especially 
 
 I would not choose Ruby for new projects, not even for Rails (which I suspect is the actual reason behind the stories about Ruby's productivity- not due to the language itself but due to the framework) because of the costs associated for even short-term development. Common wisdom in the Ruby community urges to start a proof of concept with Ruby and Rails, and should one's business prove successful enough, rewrite it later when there's a proven market for the product (at which point a rewrite can be afforded). I do not much agree with this sentiment, both because there now exist languages and frameworks that are as productive as Ruby without any of the tradeoffs, but also because it is _never_ a good time for a rewrite, either because the company is still a startup and needs to keep running to get ahead of things, or because it's established and there's too much code lying around to make rewrites viable.
 
+##### Footnotes
+
 [^1]: I find that when I'm trying to learn a new piece of tech nothing can beat a good book in terms of introducing new concepts in an organized manner.
 
 [^2]: Ruby having all these millions of ways of doing the same thing also reminds me of the [photoshop file format](https://github.com/gco/xee/blob/master/XeePhotoshopLoader.m#L108) and [php](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)- from the good old days of php 5.2/5.3 when classes were introduced but the documentation insisted everywhere that "php is not and never will be an OO language". But, but... why classes then? Oh well.
